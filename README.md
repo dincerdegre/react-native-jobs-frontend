@@ -1,13 +1,10 @@
-# Expo Router Example
+# React Native Jobs Frontend with Logic (Typescript)
 
-Use [`expo-router`](https://docs.expo.dev/router/introduction/) to build native navigation using files in the `app/` directory.
+### Packages
 
-## 🚀 How to use
+- Expo
+- Expo Router
+- Expo Font
+- Axios
+- React Native DotEnv
 
-```sh
-npx create-expo-app -e with-router
-```
-
-## 📝 Notes
-
-- [Expo Router: Docs](https://docs.expo.dev/router/introduction/)
