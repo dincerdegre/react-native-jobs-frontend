@@ -1,4 +1,4 @@
-import { View, Text, TouchableOpacity, Image, StyleSheet } from "react-native";
+import {TouchableOpacity, Image, StyleSheet } from "react-native";
 import React from "react";
 import { HeaderButtonProps } from "../../types/interfaces";
 import { COLORS, SIZES } from "../../constants";
