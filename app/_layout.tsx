@@ -11,6 +11,7 @@ const Layout = () => {
     DMMedium: require("../assets/fonts/DMSans-Medium.ttf"),
     DMRegular: require("../assets/fonts/DMSans-Regular.ttf"),
   });
+  
   useEffect(() => {
     if (error) throw error;
   }, [error]);

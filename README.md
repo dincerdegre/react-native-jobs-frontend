@@ -8,3 +8,5 @@
 - Axios
 - React Native DotEnv
 
+
+![Jobs GIF](./jobs.gif)
